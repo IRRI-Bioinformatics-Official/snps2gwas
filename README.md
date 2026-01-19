@@ -1,6 +1,6 @@
 # Training Overview
 
-Welcome to the **UPLB-IRRI Internship/Training: Basic Bioinformatics Course** under the UPLB and IRRI partnership. This training is designed to equip participants with the basic bioinformatics skills necessary for performing bioinformatics analysis.
+Welcome to the **International Rice Research Institute Training: SNPs to GWAS Training Course** under the Bioinformatics and IRRI Education partnership. This training is designed to equip participants with the basic bioinformatics skills necessary for performing bioinformatics analysis.
 
 ## Objective
 
@@ -13,7 +13,7 @@ The general objective of the training is to:
 
 ## Format
 
-This is a **hybrid training setup**.
+This is a **face to face training setup**.
 
 ---
 
